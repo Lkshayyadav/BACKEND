@@ -1,13 +1,22 @@
--> NPM = node package manager 
+# 📦 NPM (Node Package Manager)
 
-- Installing of npm 
-npm i (name)
+> NPM = Node Package Manager
 
-- uninstalling of npm
-npm uninstall (name)
+---
 
-- For specific version
-npm i (name)@(version)
+## 🔧 Basic Commands
+
+- **Installing a package:**
+  ```bash
+  npm i <package-name>
+
+- **Uninstalling a package:**
+  npm uninstall <package-name>
+
+
+- **For specific packages**
+  npm i <package-name>@<version>
+
 
 - packages 
 packages and packages ki dependencies 

@@ -33,4 +33,3 @@ for using middleware we have to write this before app.get
     next();
 });
 if we dont write next() then it will not send forward the request.
-> in the 
